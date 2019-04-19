@@ -3,7 +3,7 @@
 
  
 [https://www.sublimetext.com/](https://www.sublimetext.com/)
-![Sublime Text 3 logo.png](https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png =120x120)
+![logo](1.png)
 
 
 
@@ -11,9 +11,12 @@
 
 | Pro's |Con's  |
 |-------|-------|
-|1. The speed| 1. Nagging pop up for payment
-2. The ease of use|2. Errors
-3. Free packet| 3. The price  |
+|1. The speed| 1. Nagging pop up for payment|
+|------------|-----------|
+|2. The ease of use|2. Errors |
+|---------------|----------|
+|3. Free packet| 3. The price  |
+
 
 ## _Pro's_
 
