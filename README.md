@@ -12,10 +12,8 @@
 | Pro's |Con's  |
 |-------|-------|
 |1. The speed| 1. Nagging pop up for payment|
-|-------|-------|
-|2. The ease of use|2. Errors |
-|-------|-------|
-|3. Free packet| 3. The price  |
+|2. The ease of use|2. Errors|
+|3. Free packet| 3. The price|
 
 
 ## _Pro's_
