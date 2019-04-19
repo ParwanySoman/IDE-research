@@ -2,7 +2,8 @@
 ## Sublime Text Editor!
 
  
-[https://www.sublimetext.com/](https://www.sublimetext.com/)
+[Click here for the link](https://www.sublimetext.com/)
+
 ![logo](1.png)
 
 
