@@ -44,10 +44,10 @@
 - ##### The price
 	The pricing can be made a little more economic for developers who are on a tight budget for the development of projects. If the team manages to reduce the pricing , a lot of developer folks out there may get onboard the 'Sublime' journey. 
 
-I chose this IDE because I have read it is the most fitted to use when you are a beginner. 
+`I chose this IDE because I have read it is the most fitted to use when you are a beginner.` 
 
 
-`<html> </html>`
+
 
 - [ ] Pro's
 - [ ] Con's
