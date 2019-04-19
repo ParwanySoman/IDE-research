@@ -46,7 +46,11 @@
 I chose this IDE because I have read it is the most fitted to use when you are a beginner. 
 
 
+`<html> </html>`
 
+- [ ] Pro's
+- [ ] Con's
+- [ ] Opinion
 
 
 >  "Ideal text editor for all types of developers."
